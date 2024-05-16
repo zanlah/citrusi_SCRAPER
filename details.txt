@@ -1,0 +1,5 @@
+https://mapzs.pzs.si/api/tracks/135177/detailed
+https://mapzs.pzs.si/api/tracks/29267/detailed
+https://mapzs.pzs.si/api/search/tracksforsection/45931?trailTypes=2
+https://mapzs.pzs.si/api/tracks/poi/5194
+https://mapzs.pzs.si/api/pois/track/ids
