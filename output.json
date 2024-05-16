@@ -1,1 +1,1202 @@
-[]
+[
+  {
+    "name": "Radeče - Leskovec",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 6650,
+    "duration": 149
+  },
+  {
+    "name": "Bračevec - Tisje",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 779,
+    "duration": 37
+  },
+  {
+    "name": "Pevno - Planica",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3259,
+    "duration": 74
+  },
+  {
+    "name": "Celjska koča - Tolsti vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 749,
+    "duration": 33
+  },
+  {
+    "name": "Ravne - Kočevska pl. pot",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 558,
+    "duration": 15
+  },
+  {
+    "name": "Križišče pri Volčah - Vremščica",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3133,
+    "duration": 89
+  },
+  {
+    "name": "Pustov mlin - Tisje",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 893,
+    "duration": 36
+  },
+  {
+    "name": "Cerknica-Slivnica",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3779,
+    "duration": 109
+  },
+  {
+    "name": "Češka koča-Mlinarsko sedlo-Cojzova koča",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 5469,
+    "duration": 240
+  },
+  {
+    "name": "Predor Ljubelj - Dom na Zelenici",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2452,
+    "duration": 66
+  },
+  {
+    "name": "Drejčetova pot",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 563,
+    "duration": 9
+  },
+  {
+    "name": "Golek - Bork",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 572,
+    "duration": 12
+  },
+  {
+    "name": "Mengeš - grad - Mengeška koča",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1091,
+    "duration": 27
+  },
+  {
+    "name": "Povezava Gabrovšnik - Šmartno na Pohorju",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1997,
+    "duration": 50
+  },
+  {
+    "name": "Gozd - Koča na Kriški gori",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2731,
+    "duration": 82
+  },
+  {
+    "name": "Križpot (nad Globoko) - Pekel",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1152,
+    "duration": 24
+  },
+  {
+    "name": "Krvavi kamen - Gospodična",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1451,
+    "duration": 27
+  },
+  {
+    "name": "Gornje Ležeče - Vremščica",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3579,
+    "duration": 105
+  },
+  {
+    "name": "Kampelc - Čelkov vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1833,
+    "duration": 42
+  },
+  {
+    "name": "Bresternica - Tojzlov vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 6580,
+    "duration": 141
+  },
+  {
+    "name": "Gornji Ajdovec - Frata",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2183,
+    "duration": 38
+  },
+  {
+    "name": "Praproče - Grajski park",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1316,
+    "duration": 25
+  },
+  {
+    "name": "Javorovica - Pleterje",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2302,
+    "duration": 60
+  },
+  {
+    "name": "Kreda - Bistrica",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 961,
+    "duration": 22
+  },
+  {
+    "name": "Markovščina - Dimnice",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 820,
+    "duration": 13
+  },
+  {
+    "name": "Pod Konjščico P - Planina Konjščica",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1580,
+    "duration": 33
+  },
+  {
+    "name": "Planina Krstenica - Spodnja Grintovica",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2020,
+    "duration": 93
+  },
+  {
+    "name": "Pristava nad Stično - Gradišče",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 509,
+    "duration": 11
+  },
+  {
+    "name": "Podljubelj-Matizovec-Dom na Kofcah",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 5540,
+    "duration": 131
+  },
+  {
+    "name": "Begunjski studenec - Staničev dom",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 967,
+    "duration": 42
+  },
+  {
+    "name": "Hrvaška meja - Terme Olimia",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 834,
+    "duration": 13
+  },
+  {
+    "name": "Cerkno - Labinjske lehe",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3644,
+    "duration": 91
+  },
+  {
+    "name": "Gradišče - Gradiški Hum SZ",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 558,
+    "duration": 10
+  },
+  {
+    "name": "G. Trbovlje - Sv. Marija na Partizanskem vrhu",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 4389,
+    "duration": 101
+  },
+  {
+    "name": "Bohinjska Bistrica - Soriška planina",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 6531,
+    "duration": 141
+  },
+  {
+    "name": "Krnica - Stara Pokljuka",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1652,
+    "duration": 46
+  },
+  {
+    "name": "Brloga - Gozdnik",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 771,
+    "duration": 13
+  },
+  {
+    "name": "Donane - Drava",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 907,
+    "duration": 15
+  },
+  {
+    "name": "Planina Korošica-Hajnževo sedlo-Košutica",
+    "abstractDescription": "<p>Zahtevna planinska pot</p>",
+    "distance": 1849,
+    "duration": 0
+  },
+  {
+    "name": "Gorjansko jezero",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 754,
+    "duration": 13
+  },
+  {
+    "name": "Zagorje - Kalec",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1397,
+    "duration": 23
+  },
+  {
+    "name": "Kostanjeviški grad - Kostanjeviška jama",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1903,
+    "duration": 29
+  },
+  {
+    "name": "Bodonci - Tišina",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 11782,
+    "duration": 182
+  },
+  {
+    "name": "Lovska koča - Oltarna peč",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 896,
+    "duration": 17
+  },
+  {
+    "name": "Dovška Baba - Hruški vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1313,
+    "duration": 29
+  },
+  {
+    "name": "Tišina - Petanjci - Radenci",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 7058,
+    "duration": 108
+  },
+  {
+    "name": "Pilštanj-Sv. Mihael",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 606,
+    "duration": 11
+  },
+  {
+    "name": "Medno - Vikrče",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1476,
+    "duration": 25
+  },
+  {
+    "name": "Iz Matkovega kota na Mrzlo goro",
+    "abstractDescription": "Zelo zahtevna planinska pot",
+    "distance": 9090,
+    "duration": 323
+  },
+  {
+    "name": "Mostnar - Presečnik (Skorno)",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1654,
+    "duration": 32
+  },
+  {
+    "name": "Zg. Jezersko - Jezerski vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 5034,
+    "duration": 105
+  },
+  {
+    "name": "Veržej - Beltinci",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 8177,
+    "duration": 124
+  },
+  {
+    "name": "Ramšak - Hribrnikova tisa",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 769,
+    "duration": 19
+  },
+  {
+    "name": "Češnjice - Stari grad",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1508,
+    "duration": 25
+  },
+  {
+    "name": "Kokrska kočna - Jezerska Kočna",
+    "abstractDescription": "Zelo zahtevna planinska pot",
+    "distance": 275,
+    "duration": 30
+  },
+  {
+    "name": "Podplat - Zg. Kostrivnica",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2645,
+    "duration": 44
+  },
+  {
+    "name": "Dovže - Grmovškov dom pod V. Kopo",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 8112,
+    "duration": 198
+  },
+  {
+    "name": "Moravske Toplice - Murska Sobota",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 7360,
+    "duration": 112
+  },
+  {
+    "name": "Hribarice - Kanjavec",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1377,
+    "duration": 39
+  },
+  {
+    "name": "Velika Polana - Lendava",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 10312,
+    "duration": 155
+  },
+  {
+    "name": "Zavetišče pri Abramu - Koča na Nanosu",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 6545,
+    "duration": 142
+  },
+  {
+    "name": "Kopitnik - Sekulak",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1466,
+    "duration": 27
+  },
+  {
+    "name": "Ljutomer - Banovci - Veržej",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 9432,
+    "duration": 143
+  },
+  {
+    "name": "Dom Vrhtrebnje - Trebni vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 341,
+    "duration": 8
+  },
+  {
+    "name": "Mariborska koča - slap Skalca",
+    "abstractDescription": "Zahtevna planinska pot",
+    "distance": 1309,
+    "duration": 37
+  },
+  {
+    "name": "Kamnik - Podvajšek",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1229,
+    "duration": 20
+  },
+  {
+    "name": "Dol - Šutna",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2214,
+    "duration": 35
+  },
+  {
+    "name": "Velika vas - Kostanjevica na Krki",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 10986,
+    "duration": 167
+  },
+  {
+    "name": "Kuzovec - Črni Vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1393,
+    "duration": 21
+  },
+  {
+    "name": "Dom dr. Klementa Juga - slap v Lepeni",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 441,
+    "duration": 9
+  },
+  {
+    "name": "Hamino-Rak",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1749,
+    "duration": 30
+  },
+  {
+    "name": "Turnišče - Dobrovnik - Bukovniško jezero",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 6811,
+    "duration": 103
+  },
+  {
+    "name": "Razgledna pot Bevkov vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2162,
+    "duration": 41
+  },
+  {
+    "name": "Koča pri Jelenovem studencu - Ledena jama",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 985,
+    "duration": 19
+  },
+  {
+    "name": "Vrhnika pri Ložu - Grad Snežnik",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 4327,
+    "duration": 68
+  },
+  {
+    "name": "Beltinci - Velika Polana",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 12141,
+    "duration": 183
+  },
+  {
+    "name": "Odcep proti Sviščakom",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 786,
+    "duration": 14
+  },
+  {
+    "name": "Pot ob Savinji",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 4097,
+    "duration": 62
+  },
+  {
+    "name": "Sora - Studenčice",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2477,
+    "duration": 63
+  },
+  {
+    "name": "Kobila - Stari grad",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 787,
+    "duration": 17
+  },
+  {
+    "name": "K izviru Soče (lažja pot)",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 272,
+    "duration": 11
+  },
+  {
+    "name": "Orlov rob - Voglarski Skakavec",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 952,
+    "duration": 19
+  },
+  {
+    "name": "Prečna - Grad Luknja - Suhor",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 959,
+    "duration": 17
+  },
+  {
+    "name": "Zg. Hudinja - Šmartinsko jezero",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3000,
+    "duration": 49
+  },
+  {
+    "name": "Blatni dol - Stari maln",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1534,
+    "duration": 27
+  },
+  {
+    "name": "Krvavi kamen - Miklavž",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1090,
+    "duration": 19
+  },
+  {
+    "name": "Koča na Kopitniku - Kopitnik",
+    "abstractDescription": "Zahtevna planinska pot",
+    "distance": 1135,
+    "duration": 24
+  },
+  {
+    "name": "Pod Brdom - Izvir Bele - Boban",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1863,
+    "duration": 54
+  },
+  {
+    "name": "Medvedjak - Kočevska pl. pot",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 477,
+    "duration": 10
+  },
+  {
+    "name": "Varianta po cesti na V. Javornik",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 796,
+    "duration": 16
+  },
+  {
+    "name": "Mali vrh - Veliki vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 508,
+    "duration": 14
+  },
+  {
+    "name": "Mrežce - Lipanski vrh, spodaj",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 535,
+    "duration": 13
+  },
+  {
+    "name": "Dom na Kalu - Igrišče",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2527,
+    "duration": 52
+  },
+  {
+    "name": "Križpot Globoko - Sv. Jedert",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1748,
+    "duration": 36
+  },
+  {
+    "name": "Jamnik - Vranje pečine",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2285,
+    "duration": 39
+  },
+  {
+    "name": "Velika poljana - nad Pl. Javornik",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1559,
+    "duration": 44
+  },
+  {
+    "name": "Prebold - Zgornje Selo",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2611,
+    "duration": 43
+  },
+  {
+    "name": "Dom na Menini - Vivodnik",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 870,
+    "duration": 20
+  },
+  {
+    "name": "Prag - Planina Vodotočnik",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1072,
+    "duration": 27
+  },
+  {
+    "name": "Vrh Ulc - Konjsko sedlo",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 852,
+    "duration": 20
+  },
+  {
+    "name": "Markovščina - Slavnik",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 6619,
+    "duration": 150
+  },
+  {
+    "name": "Šmartno v Rožni dolini - Šmartinsko jezero",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2601,
+    "duration": 46
+  },
+  {
+    "name": "Gradišče - Vranje pečine",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2621,
+    "duration": 47
+  },
+  {
+    "name": "Podljubelj - Šentanška dolina - Preval",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3728,
+    "duration": 91
+  },
+  {
+    "name": "Puštal - Mrtancova pl.",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2259,
+    "duration": 64
+  },
+  {
+    "name": "Sovodenj - Ermanovec čez Razgledno",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 5217,
+    "duration": 97
+  },
+  {
+    "name": "Pöržov mlin-Rak",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2115,
+    "duration": 38
+  },
+  {
+    "name": "Dom na Menini - Vivodnik",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 673,
+    "duration": 17
+  },
+  {
+    "name": "Ankaran - Debeli rtič",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3485,
+    "duration": 59
+  },
+  {
+    "name": "Predgozd-Krvava Peč",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 4036,
+    "duration": 70
+  },
+  {
+    "name": "Koča na Kriški gori - Tolsti vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2564,
+    "duration": 55
+  },
+  {
+    "name": "Divača - Škocjanske jame",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3315,
+    "duration": 54
+  },
+  {
+    "name": "Ramovšev laz - Ulaka",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 523,
+    "duration": 15
+  },
+  {
+    "name": "Povezava med potmi na Trdinov vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 587,
+    "duration": 16
+  },
+  {
+    "name": "Lom - Koča na Uskovnici",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1094,
+    "duration": 22
+  },
+  {
+    "name": "Kanonir - Kozji vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 4400,
+    "duration": 167
+  },
+  {
+    "name": "Rogašovci-Rak",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2902,
+    "duration": 50
+  },
+  {
+    "name": "Kostanjevica - Pleterje",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 4169,
+    "duration": 78
+  },
+  {
+    "name": "Varianta Vovk - Gregorc",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3415,
+    "duration": 71
+  },
+  {
+    "name": "Kapela - Janžev vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3220,
+    "duration": 57
+  },
+  {
+    "name": "Borovnica - Pekel",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3739,
+    "duration": 61
+  },
+  {
+    "name": "Dom na Čemšeniški planini - Črni vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 809,
+    "duration": 17
+  },
+  {
+    "name": "Ponikva - Uršula",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 5236,
+    "duration": 104
+  },
+  {
+    "name": "Mali Moravščak - Mala Nedelja",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3527,
+    "duration": 61
+  },
+  {
+    "name": "Koča na Klopnem vrhu-Klopni vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 875,
+    "duration": 19
+  },
+  {
+    "name": "Stara Vrhnika - Tankovska cesta",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1842,
+    "duration": 37
+  },
+  {
+    "name": "Lom - Mlaka - Koča na Uskovnici",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 943,
+    "duration": 20
+  },
+  {
+    "name": "Hotel Planja - Rogla - Pesek",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2744,
+    "duration": 54
+  },
+  {
+    "name": "Cvetkovski vrh - grad Borl",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 12374,
+    "duration": 198
+  },
+  {
+    "name": "Češnica - Dolgi tali",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2778,
+    "duration": 48
+  },
+  {
+    "name": "Povezovalna pot Brezovški hrib-Kamnišca",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1391,
+    "duration": 27
+  },
+  {
+    "name": "Brežice - Čatež ob Savi",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1758,
+    "duration": 32
+  },
+  {
+    "name": "Zg. Slivna - Slivna",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1305,
+    "duration": 26
+  },
+  {
+    "name": "Šoštanj-Pusti grad",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 643,
+    "duration": 15
+  },
+  {
+    "name": "Šport hotel - Pl. Javornik",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3030,
+    "duration": 52
+  },
+  {
+    "name": "Rakek - Rakov Škocjan",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 4263,
+    "duration": 75
+  },
+  {
+    "name": "Staničev dom - Vrbanova špica",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 661,
+    "duration": 19
+  },
+  {
+    "name": "Mala Nedelja - Cezanjevci",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 8874,
+    "duration": 144
+  },
+  {
+    "name": "Dom na Osankarici - Taborišče 1. poh. bataljona",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1453,
+    "duration": 26
+  },
+  {
+    "name": "Kumer - Luže",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1540,
+    "duration": 28
+  },
+  {
+    "name": "Razorjevec - Sivka",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1180,
+    "duration": 23
+  },
+  {
+    "name": "Srenjski preval - Viševnik",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 623,
+    "duration": 20
+  },
+  {
+    "name": "Pirešica - Razgorce",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 669,
+    "duration": 19
+  },
+  {
+    "name": "Tičarjev dom - Poštarska koča",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 849,
+    "duration": 18
+  },
+  {
+    "name": "Tabor. I. poh. bataljona - Šumik",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 4081,
+    "duration": 73
+  },
+  {
+    "name": "Sedlo Planja-Planja",
+    "abstractDescription": "Zahtevna planinska pot",
+    "distance": 345,
+    "duration": 30
+  },
+  {
+    "name": "Bukovec - Kevdrc",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1256,
+    "duration": 28
+  },
+  {
+    "name": "Valvasorjev dom  - Ajdna",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1995,
+    "duration": 53
+  },
+  {
+    "name": "K izviru Soče (težja pot)",
+    "abstractDescription": "Zelo zahtevna planinska pot",
+    "distance": 361,
+    "duration": 21
+  },
+  {
+    "name": "Mariborska koča - razgledni stolp",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1606,
+    "duration": 33
+  },
+  {
+    "name": "Koča na Bohorju - Veliki Koprivnik",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 948,
+    "duration": 23
+  },
+  {
+    "name": "Radenci - Kapela",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2915,
+    "duration": 51
+  },
+  {
+    "name": "Planinski dom na Kamnem griču-Kalični vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2326,
+    "duration": 53
+  },
+  {
+    "name": "Artviže - Dimnice",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 6971,
+    "duration": 122
+  },
+  {
+    "name": "Krpanova pot - varianta do mlina",
+    "abstractDescription": "Lahka turistična pot",
+    "distance": 2658,
+    "duration": 50
+  },
+  {
+    "name": "Košutna - Mokrica",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1655,
+    "duration": 48
+  },
+  {
+    "name": "Zaplana - Storžev hrib",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2498,
+    "duration": 59
+  },
+  {
+    "name": "Čez Ljubljanski grad",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1534,
+    "duration": 34
+  },
+  {
+    "name": "Tankovska cesta - Stari maln",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2730,
+    "duration": 46
+  },
+  {
+    "name": "Sežana - MP Draga-Orlek",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 6155,
+    "duration": 99
+  },
+  {
+    "name": "Mrzlo Polje - Lovrenc",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3046,
+    "duration": 62
+  },
+  {
+    "name": "Spolonke - Petričev hrib",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 866,
+    "duration": 22
+  },
+  {
+    "name": "ŽP Preserje - Kamnik pod Krimom - Preserje",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2441,
+    "duration": 44
+  },
+  {
+    "name": "Ribniška koča-Črni vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2277,
+    "duration": 45
+  },
+  {
+    "name": "Vrhnika - Verd",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3581,
+    "duration": 60
+  },
+  {
+    "name": "Štenge-Pikovo",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2925,
+    "duration": 53
+  },
+  {
+    "name": "Pil -Štant",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 993,
+    "duration": 21
+  },
+  {
+    "name": "Celje-Lisca-Brniški potok",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3329,
+    "duration": 57
+  },
+  {
+    "name": "Pikovo-Mitnek",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1184,
+    "duration": 25
+  },
+  {
+    "name": "Sp. Slivna - Sv. Florjan",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2102,
+    "duration": 40
+  },
+  {
+    "name": "Varianta mimo izvira kisle vode",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1497,
+    "duration": 35
+  },
+  {
+    "name": "Podolnica - Prosca",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1744,
+    "duration": 34
+  },
+  {
+    "name": "Dom na Menini - Šavnice (Goli vrh)",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 4007,
+    "duration": 71
+  },
+  {
+    "name": "Gabrje - Dolenji Suhadol",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 4359,
+    "duration": 79
+  },
+  {
+    "name": "Ivanjkovci - Jeruzalem",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2634,
+    "duration": 48
+  },
+  {
+    "name": "Ormož - Hum",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 4180,
+    "duration": 73
+  },
+  {
+    "name": "Grajska pot",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1826,
+    "duration": 43
+  },
+  {
+    "name": "Jeruzalem - Železne dveri - Ljutomer",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 7378,
+    "duration": 127
+  },
+  {
+    "name": "Tamar - izvir Nadiže",
+    "abstractDescription": "Zahtevna planinska pot",
+    "distance": 871,
+    "duration": 29
+  },
+  {
+    "name": "Veliki vrh (krožna pot)",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1312,
+    "duration": 38
+  },
+  {
+    "name": "a.p. Mengeš J - Mengeška koča",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1603,
+    "duration": 35
+  },
+  {
+    "name": "Čez Žigartov vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3195,
+    "duration": 58
+  },
+  {
+    "name": "Šentvid - Toško čelo",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 5122,
+    "duration": 112
+  },
+  {
+    "name": "Koča pod Bogatinom-Koča pri Triglavskih jezerih",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 7108,
+    "duration": 157
+  },
+  {
+    "name": "Jamnik - Planina",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1538,
+    "duration": 32
+  },
+  {
+    "name": "Biba - Goli vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2652,
+    "duration": 49
+  },
+  {
+    "name": "Radomerščak - Plešivica",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2581,
+    "duration": 48
+  },
+  {
+    "name": "Medvedica - Veliki Ločnik Z",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1869,
+    "duration": 38
+  },
+  {
+    "name": "Ramovšev laz - Koreno",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 738,
+    "duration": 23
+  },
+  {
+    "name": "Šmarje-Sečovlje",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 18881,
+    "duration": 371
+  },
+  {
+    "name": "Žimarice - Mlake",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1131,
+    "duration": 26
+  },
+  {
+    "name": "Puščava - Lovrenc na Pohorju",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 3052,
+    "duration": 53
+  },
+  {
+    "name": "Podpeč - Sv. Štefan",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1829,
+    "duration": 43
+  },
+  {
+    "name": "Davča - Jurež",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 2390,
+    "duration": 45
+  },
+  {
+    "name": "Logatec - Jezerce",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 4648,
+    "duration": 79
+  },
+  {
+    "name": "Preserje - Sv . Ana",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1740,
+    "duration": 36
+  },
+  {
+    "name": "Varianta Haloške planinske poti",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1896,
+    "duration": 35
+  },
+  {
+    "name": "Dom pri izviru Završnice - Planinski dom na Zelenici",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1299,
+    "duration": 30
+  },
+  {
+    "name": "Planina Zgornja Dolga njiva - Orlovo sedlo",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 978,
+    "duration": 27
+  },
+  {
+    "name": "Dom na Svetini-Tolsti vrh",
+    "abstractDescription": "Lahka planinska pot",
+    "distance": 1041,
+    "duration": 32
+  }
+]
