@@ -1,7 +1,35 @@
 import axios from 'axios';
 import fs from 'fs';
-import { regions } from './regions.js';
+import { createClient } from '@supabase/supabase-js';
 
+const supabaseUrl = 'https://cqohcrtvvbaaofvxfcaf.supabase.co';
+const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNxb2hjcnR2dmJhYW9mdnhmY2FmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTUzMjg2NjEsImV4cCI6MjAzMDkwNDY2MX0.n125xdxjq8SdLrBYcGWBIGd5XpZzWT8hIrsyvw71_kM';
+const supabase = createClient(supabaseUrl, supabaseKey);
+
+
+
+async function uploadDataToSupabase(filePath) {
+    try {
+        const fileData = fs.readFileSync(filePath, 'utf8');
+        const jsonData = JSON.parse(fileData);
+
+
+        for (const record of jsonData) {
+
+            const { data, error } = await supabase
+                .from('ROUTES')
+                .insert([record]);
+
+            if (error) {
+                throw error;
+            } else {
+                console.log('Upload successful:', data);
+            }
+        }
+    } catch (error) {
+        console.error('Error uploading data:', error);
+    }
+}
 
 async function fetchPOINTS() {
     const url = 'https://mapzs.pzs.si/api/tracks/points';
@@ -36,45 +64,77 @@ async function fetchDetailedPointData(id) {
 
         const name = response.data.name;
 
-        const abstractDescription = response.data.abstractDescription;
-        const distance = response.data.distance;
-        const duration = response.data.duration;
-        return { name, abstractDescription, distance, duration };
+        let abstractDescription = response.data.abstractDescription;
+        let distance = response.data.distance;
+        let duration = response.data.duration;
+        let durationReverse = response.data.durationReverse;
+        let id = response.data.id;
+        let cumulativeElevationGain = response.data.cumulativeElevationGain;
+        let cumulativeElevationLoss = response.data.cumulativeElevationLoss;
+        let coverImage = response.data.coverImage;
+        let hasSafetyGear = response.data.hasSafetyGear;
+        let dificulty = response.data.dificulty;
+        let trailType = response.data.trailType;
+        let startPoint = response.data.startPoint;
+        let finishPoint = response.data.finishPoint;
+        let owner = response.data.owner;
+        let images = response.data.images;
+        let pois = response.data.pois;
+
+
+        return {
+            id,
+            name,
+            abstractDescription,
+            distance,
+            duration,
+            durationReverse,
+            cumulativeElevationGain,
+            cumulativeElevationLoss,
+            coverImage,
+            hasSafetyGear,
+            dificulty,
+            trailType,
+            startPoint,
+            finishPoint,
+            owner,
+            images,
+            pois
+        };
+
     } catch (error) {
         console.error(`Error fetching data for ID ${id}:`, error);
         return null;
     }
 }
 
-async function main() {
+async function getData(limit = 400) {
     const detailedDataArray = [];
-    let i = 0;
     const initialData = await fetchPOINTS();
-    console.log('Starting to process initial data...');
-    if (initialData) {
-        console.log('Initial Data:', initialData); //
-        for (const item of initialData) {
-            console.log('Current Item:', item);
-            //const routes = await fetchRoutes(item.id);
-            //for (const route of routes) {
-            if (item && (i < 200)) {
-                console.log('Fetching data for ID:', item)
-                const detailedData = await fetchDetailedPointData(item);
-                if (detailedData) {
-                    detailedDataArray.push(detailedData);
-                }
-                i++;
-                if (i >= 200) break;
-            }
-            // }
-            if (i >= 200) break;
-        }
+    for (let i = 0; i < Math.min(initialData.length, limit); i++) {
+        const detailedData = await fetchDetailedPointData(initialData[i]);
+        if (detailedData) detailedDataArray.push(detailedData);
     }
-
-
-
     fs.writeFileSync('output.json', JSON.stringify(detailedDataArray, null, 2), 'utf8');
     console.log('Data has been written to output.json');
+}
+
+
+async function main() {
+    const args = process.argv.slice(2);
+    const limit = parseInt(args[1], 10) || 400;
+    switch (args[0]) {
+        case 'fetch':
+            await getData(limit)
+            break;
+
+        case 'upload':
+            console.log('Uploading data...');
+            await uploadDataToSupabase('output.json');
+            break;
+        default:
+            console.log('No or invalid argument provided. Use "fetch", "write", or "upload".');
+    }
 }
 
 main();

@@ -1,1202 +1,969 @@
 [
   {
+    "id": 30711,
     "name": "Radeče - Leskovec",
     "abstractDescription": "Lahka planinska pot",
     "distance": 6650,
-    "duration": 149
+    "duration": 149,
+    "durationReverse": 132,
+    "cumulativeElevationGain": 569,
+    "cumulativeElevationLoss": 55,
+    "coverImage": null,
+    "hasSafetyGear": false,
+    "trailType": 1,
+    "startPoint": {
+      "id": 5902,
+      "name": "Radeče",
+      "type": 20,
+      "territory": 14,
+      "iconRotation": null,
+      "elevation": 207,
+      "geometry": "POINT (1690295.0920000002 5790679.614399999)",
+      "coverImage": null,
+      "websiteId": null,
+      "weatherWidgetTitle": "Lisca",
+      "hutClosed": null
+    },
+    "finishPoint": {
+      "id": 5254,
+      "name": "Leskovec",
+      "type": 18,
+      "territory": 14,
+      "iconRotation": null,
+      "elevation": 721,
+      "geometry": "POINT (1687298.4926000014 5786070.730599999)",
+      "coverImage": "4132.JPG",
+      "websiteId": null,
+      "weatherWidgetTitle": "Kum",
+      "hutClosed": null
+    },
+    "owner": {
+      "idPzs": 150,
+      "name": "PD Radeče"
+    },
+    "images": [],
+    "pois": [
+      {
+        "id": 5902,
+        "name": "Radeče",
+        "type": 20,
+        "territory": 14,
+        "iconRotation": null,
+        "elevation": 207,
+        "geometry": "POINT (1690295.0920000002 5790679.614399999)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Lisca",
+        "hutClosed": null
+      },
+      {
+        "id": 100621,
+        "name": "Vahtar",
+        "type": 13,
+        "territory": 14,
+        "iconRotation": null,
+        "elevation": 395,
+        "geometry": "POINT (1689227.0967000015 5789507.9592999965)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Kum",
+        "hutClosed": null
+      },
+      {
+        "id": 5887,
+        "name": "Brunk",
+        "type": 25,
+        "territory": 14,
+        "iconRotation": null,
+        "elevation": 551,
+        "geometry": "POINT (1689217.9250999987 5786385.946800001)",
+        "coverImage": "6501.JPG",
+        "websiteId": null,
+        "weatherWidgetTitle": "Lisca",
+        "hutClosed": null
+      },
+      {
+        "id": 59688,
+        "name": "Brunk Z",
+        "type": 13,
+        "territory": 14,
+        "iconRotation": null,
+        "elevation": 576,
+        "geometry": "POINT (1688889.2780999988 5786430.517200001)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Lisca",
+        "hutClosed": null
+      },
+      {
+        "id": 5900,
+        "name": "Leskovec v Podborštu S",
+        "type": 57,
+        "territory": 14,
+        "iconRotation": null,
+        "elevation": 701,
+        "geometry": "POINT (1687425.2991999984 5786553.471000001)",
+        "coverImage": "6506.JPG",
+        "websiteId": null,
+        "weatherWidgetTitle": "Kum",
+        "hutClosed": null
+      },
+      {
+        "id": 59659,
+        "name": "Leskovec - konec vasi",
+        "type": 13,
+        "territory": 14,
+        "iconRotation": null,
+        "elevation": 701,
+        "geometry": "POINT (1687359.1787 5786391.001999997)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Kum",
+        "hutClosed": null
+      },
+      {
+        "id": 5254,
+        "name": "Leskovec",
+        "type": 18,
+        "territory": 14,
+        "iconRotation": null,
+        "elevation": 721,
+        "geometry": "POINT (1687298.4926000014 5786070.730599999)",
+        "coverImage": "4132.JPG",
+        "websiteId": null,
+        "weatherWidgetTitle": "Kum",
+        "hutClosed": null
+      }
+    ]
   },
   {
+    "id": 30713,
     "name": "Bračevec - Tisje",
     "abstractDescription": "Lahka planinska pot",
     "distance": 779,
-    "duration": 37
+    "duration": 37,
+    "durationReverse": 26,
+    "cumulativeElevationGain": 211,
+    "cumulativeElevationLoss": 0,
+    "coverImage": null,
+    "hasSafetyGear": false,
+    "trailType": 1,
+    "startPoint": {
+      "id": 6399,
+      "name": "Bračevec",
+      "type": 20,
+      "territory": 14,
+      "iconRotation": null,
+      "elevation": 346,
+      "geometry": "POINT (1660092.7335 5785829.795599997)",
+      "coverImage": null,
+      "websiteId": null,
+      "weatherWidgetTitle": "Sevno",
+      "hutClosed": null
+    },
+    "finishPoint": {
+      "id": 1453,
+      "name": "Sp. Tisje",
+      "type": 19,
+      "territory": 14,
+      "iconRotation": null,
+      "elevation": 554,
+      "geometry": "POINT (1660419.4505000003 5784888.197099999)",
+      "coverImage": null,
+      "websiteId": null,
+      "weatherWidgetTitle": "Sevno",
+      "hutClosed": null
+    },
+    "owner": {
+      "idPzs": 95,
+      "name": "PD Litija"
+    },
+    "images": [],
+    "pois": [
+      {
+        "id": 6399,
+        "name": "Bračevec",
+        "type": 20,
+        "territory": 14,
+        "iconRotation": null,
+        "elevation": 346,
+        "geometry": "POINT (1660092.7335 5785829.795599997)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Sevno",
+        "hutClosed": null
+      },
+      {
+        "id": 1453,
+        "name": "Sp. Tisje",
+        "type": 19,
+        "territory": 14,
+        "iconRotation": null,
+        "elevation": 554,
+        "geometry": "POINT (1660419.4505000003 5784888.197099999)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Sevno",
+        "hutClosed": null
+      }
+    ]
   },
   {
+    "id": 30715,
     "name": "Pevno - Planica",
     "abstractDescription": "Lahka planinska pot",
     "distance": 3259,
-    "duration": 74
+    "duration": 74,
+    "durationReverse": 65,
+    "cumulativeElevationGain": 331,
+    "cumulativeElevationLoss": 0,
+    "coverImage": null,
+    "hasSafetyGear": false,
+    "trailType": 1,
+    "startPoint": {
+      "id": 4919,
+      "name": "Pevno",
+      "type": 4,
+      "territory": 4,
+      "iconRotation": null,
+      "elevation": 403,
+      "geometry": "POINT (1591830.1504999995 5810869.675499998)",
+      "coverImage": null,
+      "websiteId": null,
+      "weatherWidgetTitle": "Škofja Loka",
+      "hutClosed": null
+    },
+    "finishPoint": {
+      "id": 4918,
+      "name": "Planica",
+      "type": 19,
+      "territory": 4,
+      "iconRotation": null,
+      "elevation": 734,
+      "geometry": "POINT (1589935.8057999983 5814455.353799999)",
+      "coverImage": null,
+      "websiteId": null,
+      "weatherWidgetTitle": "Škofja Loka",
+      "hutClosed": null
+    },
+    "owner": {
+      "idPzs": 188,
+      "name": "PD Škofja Loka"
+    },
+    "images": [],
+    "pois": [
+      {
+        "id": 4919,
+        "name": "Pevno",
+        "type": 4,
+        "territory": 4,
+        "iconRotation": null,
+        "elevation": 403,
+        "geometry": "POINT (1591830.1504999995 5810869.675499998)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Škofja Loka",
+        "hutClosed": null
+      },
+      {
+        "id": 4918,
+        "name": "Planica",
+        "type": 19,
+        "territory": 4,
+        "iconRotation": null,
+        "elevation": 734,
+        "geometry": "POINT (1589935.8057999983 5814455.353799999)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Škofja Loka",
+        "hutClosed": null
+      }
+    ]
   },
   {
+    "id": 30721,
     "name": "Celjska koča - Tolsti vrh",
     "abstractDescription": "Lahka planinska pot",
     "distance": 749,
-    "duration": 33
+    "duration": 33,
+    "durationReverse": 24,
+    "cumulativeElevationGain": 188,
+    "cumulativeElevationLoss": 0,
+    "coverImage": null,
+    "hasSafetyGear": false,
+    "trailType": 1,
+    "startPoint": {
+      "id": 4334,
+      "name": "Celjska koča",
+      "type": 21,
+      "territory": 12,
+      "iconRotation": null,
+      "elevation": 646,
+      "geometry": "POINT (1700465.9717000015 5811635.4815)",
+      "coverImage": "2549.jpg",
+      "websiteId": null,
+      "weatherWidgetTitle": "Celje",
+      "hutClosed": null
+    },
+    "finishPoint": {
+      "id": 281,
+      "name": "Tolsti vrh",
+      "type": 1,
+      "territory": 12,
+      "iconRotation": null,
+      "elevation": 834,
+      "geometry": "POINT (1701158.6638000011 5811097.3605)",
+      "coverImage": null,
+      "websiteId": null,
+      "weatherWidgetTitle": "Celje",
+      "hutClosed": null
+    },
+    "owner": {
+      "idPzs": 226,
+      "name": "PD Železničar Celje"
+    },
+    "images": [],
+    "pois": [
+      {
+        "id": 4334,
+        "name": "Celjska koča",
+        "type": 21,
+        "territory": 12,
+        "iconRotation": null,
+        "elevation": 646,
+        "geometry": "POINT (1700465.9717000015 5811635.4815)",
+        "coverImage": "2549.jpg",
+        "websiteId": null,
+        "weatherWidgetTitle": "Celje",
+        "hutClosed": null
+      },
+      {
+        "id": 281,
+        "name": "Tolsti vrh",
+        "type": 1,
+        "territory": 12,
+        "iconRotation": null,
+        "elevation": 834,
+        "geometry": "POINT (1701158.6638000011 5811097.3605)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Celje",
+        "hutClosed": null
+      }
+    ]
   },
   {
+    "id": 30723,
     "name": "Ravne - Kočevska pl. pot",
     "abstractDescription": "Lahka planinska pot",
     "distance": 558,
-    "duration": 15
+    "duration": 15,
+    "durationReverse": 12,
+    "cumulativeElevationGain": 74,
+    "cumulativeElevationLoss": 1,
+    "coverImage": null,
+    "hasSafetyGear": false,
+    "trailType": 1,
+    "startPoint": {
+      "id": 4615,
+      "name": "Ravne SZ",
+      "type": 4,
+      "territory": 2,
+      "iconRotation": null,
+      "elevation": 770,
+      "geometry": "POINT (1644067.4305999987 5709810.3342999965)",
+      "coverImage": null,
+      "websiteId": null,
+      "weatherWidgetTitle": "Osilnica",
+      "hutClosed": null
+    },
+    "finishPoint": {
+      "id": 4525,
+      "name": "Ravne Z",
+      "type": 19,
+      "territory": 2,
+      "iconRotation": null,
+      "elevation": 843,
+      "geometry": "POINT (1643572.5661999993 5709256.7016)",
+      "coverImage": null,
+      "websiteId": null,
+      "weatherWidgetTitle": "Osilnica",
+      "hutClosed": null
+    },
+    "owner": {
+      "idPzs": 82,
+      "name": "PD Kočevje"
+    },
+    "images": [],
+    "pois": [
+      {
+        "id": 4615,
+        "name": "Ravne SZ",
+        "type": 4,
+        "territory": 2,
+        "iconRotation": null,
+        "elevation": 770,
+        "geometry": "POINT (1644067.4305999987 5709810.3342999965)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Osilnica",
+        "hutClosed": null
+      },
+      {
+        "id": 4525,
+        "name": "Ravne Z",
+        "type": 19,
+        "territory": 2,
+        "iconRotation": null,
+        "elevation": 843,
+        "geometry": "POINT (1643572.5661999993 5709256.7016)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Osilnica",
+        "hutClosed": null
+      }
+    ]
   },
   {
+    "id": 30729,
     "name": "Križišče pri Volčah - Vremščica",
     "abstractDescription": "Lahka planinska pot",
     "distance": 3133,
-    "duration": 89
+    "duration": 89,
+    "durationReverse": 68,
+    "cumulativeElevationGain": 424,
+    "cumulativeElevationLoss": 0,
+    "coverImage": null,
+    "hasSafetyGear": false,
+    "trailType": 1,
+    "startPoint": {
+      "id": 5721,
+      "name": "Pri Volčah",
+      "type": 19,
+      "territory": 11,
+      "iconRotation": null,
+      "elevation": 601,
+      "geometry": "POINT (1569153.9384999983 5728747.533500001)",
+      "coverImage": null,
+      "websiteId": null,
+      "weatherWidgetTitle": "Park Škocjanske jame",
+      "hutClosed": null
+    },
+    "finishPoint": {
+      "id": 1227,
+      "name": "Velika Vremščica",
+      "type": 1,
+      "territory": 11,
+      "iconRotation": null,
+      "elevation": 1025.3,
+      "geometry": "POINT (1565327.3220000006 5730538.024599999)",
+      "coverImage": "7969.jpg",
+      "websiteId": null,
+      "weatherWidgetTitle": "Park Škocjanske jame",
+      "hutClosed": null
+    },
+    "owner": {
+      "idPzs": 168,
+      "name": "PD Sežana"
+    },
+    "images": [],
+    "pois": [
+      {
+        "id": 5721,
+        "name": "Pri Volčah",
+        "type": 19,
+        "territory": 11,
+        "iconRotation": null,
+        "elevation": 601,
+        "geometry": "POINT (1569153.9384999983 5728747.533500001)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Park Škocjanske jame",
+        "hutClosed": null
+      },
+      {
+        "id": 1227,
+        "name": "Velika Vremščica",
+        "type": 1,
+        "territory": 11,
+        "iconRotation": null,
+        "elevation": 1025.3,
+        "geometry": "POINT (1565327.3220000006 5730538.024599999)",
+        "coverImage": "7969.jpg",
+        "websiteId": null,
+        "weatherWidgetTitle": "Park Škocjanske jame",
+        "hutClosed": null
+      }
+    ]
   },
   {
+    "id": 30730,
     "name": "Pustov mlin - Tisje",
     "abstractDescription": "Lahka planinska pot",
     "distance": 893,
-    "duration": 36
+    "duration": 36,
+    "durationReverse": 26,
+    "cumulativeElevationGain": 197,
+    "cumulativeElevationLoss": 0,
+    "coverImage": null,
+    "hasSafetyGear": false,
+    "trailType": 1,
+    "startPoint": {
+      "id": 6400,
+      "name": "Pustov mlin",
+      "type": 20,
+      "territory": 14,
+      "iconRotation": null,
+      "elevation": 359,
+      "geometry": "POINT (1661122.4466000013 5785657.138499998)",
+      "coverImage": null,
+      "websiteId": null,
+      "weatherWidgetTitle": "Sevno",
+      "hutClosed": null
+    },
+    "finishPoint": {
+      "id": 1453,
+      "name": "Sp. Tisje",
+      "type": 19,
+      "territory": 14,
+      "iconRotation": null,
+      "elevation": 554,
+      "geometry": "POINT (1660419.4505000003 5784888.197099999)",
+      "coverImage": null,
+      "websiteId": null,
+      "weatherWidgetTitle": "Sevno",
+      "hutClosed": null
+    },
+    "owner": {
+      "idPzs": 95,
+      "name": "PD Litija"
+    },
+    "images": [],
+    "pois": [
+      {
+        "id": 6400,
+        "name": "Pustov mlin",
+        "type": 20,
+        "territory": 14,
+        "iconRotation": null,
+        "elevation": 359,
+        "geometry": "POINT (1661122.4466000013 5785657.138499998)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Sevno",
+        "hutClosed": null
+      },
+      {
+        "id": 1453,
+        "name": "Sp. Tisje",
+        "type": 19,
+        "territory": 14,
+        "iconRotation": null,
+        "elevation": 554,
+        "geometry": "POINT (1660419.4505000003 5784888.197099999)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Sevno",
+        "hutClosed": null
+      }
+    ]
   },
   {
+    "id": 30731,
     "name": "Cerknica-Slivnica",
     "abstractDescription": "Lahka planinska pot",
     "distance": 3779,
-    "duration": 109
+    "duration": 109,
+    "durationReverse": 85,
+    "cumulativeElevationGain": 545,
+    "cumulativeElevationLoss": 0,
+    "coverImage": null,
+    "hasSafetyGear": false,
+    "trailType": 1,
+    "startPoint": {
+      "id": 1409,
+      "name": "Brest v Cerknici",
+      "type": 4,
+      "territory": 7,
+      "iconRotation": null,
+      "elevation": 580,
+      "geometry": "POINT (1599297.9699000008 5747129.175700001)",
+      "coverImage": null,
+      "websiteId": null,
+      "weatherWidgetTitle": "Cerknica",
+      "hutClosed": null
+    },
+    "finishPoint": {
+      "id": 5679,
+      "name": "Velika Slivnica",
+      "type": 1,
+      "territory": 7,
+      "iconRotation": null,
+      "elevation": 1112,
+      "geometry": "POINT (1603889.6024000011 5746779.358199999)",
+      "coverImage": null,
+      "websiteId": null,
+      "weatherWidgetTitle": "Cerknica",
+      "hutClosed": null
+    },
+    "owner": {
+      "idPzs": 34,
+      "name": "PD Cerknica"
+    },
+    "images": [],
+    "pois": [
+      {
+        "id": 1409,
+        "name": "Brest v Cerknici",
+        "type": 4,
+        "territory": 7,
+        "iconRotation": null,
+        "elevation": 580,
+        "geometry": "POINT (1599297.9699000008 5747129.175700001)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Cerknica",
+        "hutClosed": null
+      },
+      {
+        "id": 5667,
+        "name": "Planinski dom na Slivnici",
+        "type": 6,
+        "territory": 7,
+        "iconRotation": null,
+        "elevation": 1075,
+        "geometry": "POINT (1603640.936900001 5746696.840800002)",
+        "coverImage": "3735.JPG",
+        "websiteId": 356,
+        "weatherWidgetTitle": "Cerknica",
+        "hutClosed": false
+      },
+      {
+        "id": 5679,
+        "name": "Velika Slivnica",
+        "type": 1,
+        "territory": 7,
+        "iconRotation": null,
+        "elevation": 1112,
+        "geometry": "POINT (1603889.6024000011 5746779.358199999)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Cerknica",
+        "hutClosed": null
+      }
+    ]
   },
   {
+    "id": 30733,
     "name": "Češka koča-Mlinarsko sedlo-Cojzova koča",
     "abstractDescription": "Lahka planinska pot",
     "distance": 5469,
-    "duration": 240
+    "duration": 240,
+    "durationReverse": 226,
+    "cumulativeElevationGain": 866,
+    "cumulativeElevationLoss": 610,
+    "coverImage": null,
+    "hasSafetyGear": true,
+    "trailType": 1,
+    "startPoint": {
+      "id": 852,
+      "name": "Češka koča na Spodnjih Ravneh",
+      "type": 6,
+      "territory": 16,
+      "iconRotation": null,
+      "elevation": 1542,
+      "geometry": "POINT (1618128.4360000007 5839797.307700001)",
+      "coverImage": "3781.JPG",
+      "websiteId": 83,
+      "weatherWidgetTitle": "Jezersko",
+      "hutClosed": true
+    },
+    "finishPoint": {
+      "id": 5030,
+      "name": "Cojzova koča na Kokrskem sedlu",
+      "type": 6,
+      "territory": 1,
+      "iconRotation": null,
+      "elevation": 1796,
+      "geometry": "POINT (1619367.7379 5835690.4595)",
+      "coverImage": "4045.JPG",
+      "websiteId": 84,
+      "weatherWidgetTitle": "Krvavec",
+      "hutClosed": true
+    },
+    "owner": {
+      "idPzs": 80,
+      "name": "PD Kamnik"
+    },
+    "images": [],
+    "pois": [
+      {
+        "id": 852,
+        "name": "Češka koča na Spodnjih Ravneh",
+        "type": 6,
+        "territory": 16,
+        "iconRotation": null,
+        "elevation": 1542,
+        "geometry": "POINT (1618128.4360000007 5839797.307700001)",
+        "coverImage": "3781.JPG",
+        "websiteId": 83,
+        "weatherWidgetTitle": "Jezersko",
+        "hutClosed": true
+      },
+      {
+        "id": 5031,
+        "name": "Spodnje Ravni",
+        "type": 19,
+        "territory": 16,
+        "iconRotation": null,
+        "elevation": 1612,
+        "geometry": "POINT (1617843.6184 5839540.490099996)",
+        "coverImage": "2518.jpg",
+        "websiteId": null,
+        "weatherWidgetTitle": "Jezersko",
+        "hutClosed": null
+      },
+      {
+        "id": 722,
+        "name": "Zgornje Ravni",
+        "type": 19,
+        "territory": 16,
+        "iconRotation": null,
+        "elevation": 1801.9,
+        "geometry": "POINT (1617853.185899999 5839079.891800001)",
+        "coverImage": "2519.jpg",
+        "websiteId": null,
+        "weatherWidgetTitle": "Jezersko",
+        "hutClosed": null
+      },
+      {
+        "id": 2784,
+        "name": "Pod Mlinarskim sedlom",
+        "type": 13,
+        "territory": 16,
+        "iconRotation": null,
+        "elevation": 2006,
+        "geometry": "POINT (1618228.6416999996 5838549.969700001)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Jezersko",
+        "hutClosed": null
+      },
+      {
+        "id": 44,
+        "name": "Mlinarsko sedlo",
+        "type": 14,
+        "territory": 1,
+        "iconRotation": 47,
+        "elevation": 2334,
+        "geometry": "POINT (1618744.6812999994 5838572.272200003)",
+        "coverImage": "2520.jpg",
+        "websiteId": null,
+        "weatherWidgetTitle": "Jezersko",
+        "hutClosed": null
+      },
+      {
+        "id": 78,
+        "name": "Veliki podi S",
+        "type": 19,
+        "territory": 1,
+        "iconRotation": null,
+        "elevation": 2210.9,
+        "geometry": "POINT (1619151.5216000006 5837962.266500004)",
+        "coverImage": "2351.jpg",
+        "websiteId": null,
+        "weatherWidgetTitle": "Jezersko",
+        "hutClosed": null
+      },
+      {
+        "id": 4043,
+        "name": "Veliki podi J",
+        "type": 19,
+        "territory": 1,
+        "iconRotation": null,
+        "elevation": 2094,
+        "geometry": "POINT (1619438.1020999998 5837300.738200001)",
+        "coverImage": "2347.jpg",
+        "websiteId": null,
+        "weatherWidgetTitle": "Jezersko",
+        "hutClosed": null
+      },
+      {
+        "id": 2807,
+        "name": "Bivak Pavla Kemperla",
+        "type": 54,
+        "territory": 1,
+        "iconRotation": null,
+        "elevation": 2102,
+        "geometry": "POINT (1619405.6752000004 5837159.304099999)",
+        "coverImage": "3695.jpg",
+        "websiteId": 110,
+        "weatherWidgetTitle": "Jezersko",
+        "hutClosed": null
+      },
+      {
+        "id": 2769,
+        "name": "Pod Dolgimi stenami",
+        "type": 13,
+        "territory": 1,
+        "iconRotation": null,
+        "elevation": 1916,
+        "geometry": "POINT (1619688.9155000001 5836326.9921)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Krvavec",
+        "hutClosed": null
+      },
+      {
+        "id": 3372,
+        "name": "M. Vratca S2",
+        "type": 13,
+        "territory": 1,
+        "iconRotation": null,
+        "elevation": 1938,
+        "geometry": "POINT (1619671.514899999 5836270.8500000015)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Krvavec",
+        "hutClosed": null
+      },
+      {
+        "id": 3453,
+        "name": "M. Vratca S1",
+        "type": 13,
+        "territory": 1,
+        "iconRotation": null,
+        "elevation": 1930,
+        "geometry": "POINT (1619701.236299999 5836226.0392)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Krvavec",
+        "hutClosed": null
+      },
+      {
+        "id": 3454,
+        "name": "M. Vratca S",
+        "type": 13,
+        "territory": 1,
+        "iconRotation": null,
+        "elevation": 1939,
+        "geometry": "POINT (1619709.2137000002 5836157.890000001)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Krvavec",
+        "hutClosed": null
+      },
+      {
+        "id": 2725,
+        "name": "Mala Vratca",
+        "type": 13,
+        "territory": 1,
+        "iconRotation": null,
+        "elevation": 1952,
+        "geometry": "POINT (1619651.0036999993 5836036.2973000035)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Krvavec",
+        "hutClosed": null
+      },
+      {
+        "id": 697,
+        "name": "Kokrsko sedlo S",
+        "type": 19,
+        "territory": 1,
+        "iconRotation": null,
+        "elevation": 1858.6,
+        "geometry": "POINT (1619409.9659999982 5835843.308300003)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Krvavec",
+        "hutClosed": null
+      },
+      {
+        "id": 5030,
+        "name": "Cojzova koča na Kokrskem sedlu",
+        "type": 6,
+        "territory": 1,
+        "iconRotation": null,
+        "elevation": 1796,
+        "geometry": "POINT (1619367.7379 5835690.4595)",
+        "coverImage": "4045.JPG",
+        "websiteId": 84,
+        "weatherWidgetTitle": "Krvavec",
+        "hutClosed": true
+      }
+    ]
   },
   {
+    "id": 30738,
     "name": "Predor Ljubelj - Dom na Zelenici",
     "abstractDescription": "Lahka planinska pot",
     "distance": 2452,
-    "duration": 66
-  },
-  {
-    "name": "Drejčetova pot",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 563,
-    "duration": 9
-  },
-  {
-    "name": "Golek - Bork",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 572,
-    "duration": 12
-  },
-  {
-    "name": "Mengeš - grad - Mengeška koča",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1091,
-    "duration": 27
-  },
-  {
-    "name": "Povezava Gabrovšnik - Šmartno na Pohorju",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1997,
-    "duration": 50
-  },
-  {
-    "name": "Gozd - Koča na Kriški gori",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2731,
-    "duration": 82
-  },
-  {
-    "name": "Križpot (nad Globoko) - Pekel",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1152,
-    "duration": 24
-  },
-  {
-    "name": "Krvavi kamen - Gospodična",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1451,
-    "duration": 27
-  },
-  {
-    "name": "Gornje Ležeče - Vremščica",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 3579,
-    "duration": 105
-  },
-  {
-    "name": "Kampelc - Čelkov vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1833,
-    "duration": 42
-  },
-  {
-    "name": "Bresternica - Tojzlov vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 6580,
-    "duration": 141
-  },
-  {
-    "name": "Gornji Ajdovec - Frata",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2183,
-    "duration": 38
-  },
-  {
-    "name": "Praproče - Grajski park",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1316,
-    "duration": 25
-  },
-  {
-    "name": "Javorovica - Pleterje",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2302,
-    "duration": 60
-  },
-  {
-    "name": "Kreda - Bistrica",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 961,
-    "duration": 22
-  },
-  {
-    "name": "Markovščina - Dimnice",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 820,
-    "duration": 13
-  },
-  {
-    "name": "Pod Konjščico P - Planina Konjščica",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1580,
-    "duration": 33
-  },
-  {
-    "name": "Planina Krstenica - Spodnja Grintovica",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2020,
-    "duration": 93
-  },
-  {
-    "name": "Pristava nad Stično - Gradišče",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 509,
-    "duration": 11
-  },
-  {
-    "name": "Podljubelj-Matizovec-Dom na Kofcah",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 5540,
-    "duration": 131
-  },
-  {
-    "name": "Begunjski studenec - Staničev dom",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 967,
-    "duration": 42
-  },
-  {
-    "name": "Hrvaška meja - Terme Olimia",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 834,
-    "duration": 13
-  },
-  {
-    "name": "Cerkno - Labinjske lehe",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 3644,
-    "duration": 91
-  },
-  {
-    "name": "Gradišče - Gradiški Hum SZ",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 558,
-    "duration": 10
-  },
-  {
-    "name": "G. Trbovlje - Sv. Marija na Partizanskem vrhu",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 4389,
-    "duration": 101
-  },
-  {
-    "name": "Bohinjska Bistrica - Soriška planina",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 6531,
-    "duration": 141
-  },
-  {
-    "name": "Krnica - Stara Pokljuka",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1652,
-    "duration": 46
-  },
-  {
-    "name": "Brloga - Gozdnik",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 771,
-    "duration": 13
-  },
-  {
-    "name": "Donane - Drava",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 907,
-    "duration": 15
-  },
-  {
-    "name": "Planina Korošica-Hajnževo sedlo-Košutica",
-    "abstractDescription": "<p>Zahtevna planinska pot</p>",
-    "distance": 1849,
-    "duration": 0
-  },
-  {
-    "name": "Gorjansko jezero",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 754,
-    "duration": 13
-  },
-  {
-    "name": "Zagorje - Kalec",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1397,
-    "duration": 23
-  },
-  {
-    "name": "Kostanjeviški grad - Kostanjeviška jama",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1903,
-    "duration": 29
-  },
-  {
-    "name": "Bodonci - Tišina",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 11782,
-    "duration": 182
-  },
-  {
-    "name": "Lovska koča - Oltarna peč",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 896,
-    "duration": 17
-  },
-  {
-    "name": "Dovška Baba - Hruški vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1313,
-    "duration": 29
-  },
-  {
-    "name": "Tišina - Petanjci - Radenci",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 7058,
-    "duration": 108
-  },
-  {
-    "name": "Pilštanj-Sv. Mihael",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 606,
-    "duration": 11
-  },
-  {
-    "name": "Medno - Vikrče",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1476,
-    "duration": 25
-  },
-  {
-    "name": "Iz Matkovega kota na Mrzlo goro",
-    "abstractDescription": "Zelo zahtevna planinska pot",
-    "distance": 9090,
-    "duration": 323
-  },
-  {
-    "name": "Mostnar - Presečnik (Skorno)",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1654,
-    "duration": 32
-  },
-  {
-    "name": "Zg. Jezersko - Jezerski vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 5034,
-    "duration": 105
-  },
-  {
-    "name": "Veržej - Beltinci",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 8177,
-    "duration": 124
-  },
-  {
-    "name": "Ramšak - Hribrnikova tisa",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 769,
-    "duration": 19
-  },
-  {
-    "name": "Češnjice - Stari grad",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1508,
-    "duration": 25
-  },
-  {
-    "name": "Kokrska kočna - Jezerska Kočna",
-    "abstractDescription": "Zelo zahtevna planinska pot",
-    "distance": 275,
-    "duration": 30
-  },
-  {
-    "name": "Podplat - Zg. Kostrivnica",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2645,
-    "duration": 44
-  },
-  {
-    "name": "Dovže - Grmovškov dom pod V. Kopo",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 8112,
-    "duration": 198
-  },
-  {
-    "name": "Moravske Toplice - Murska Sobota",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 7360,
-    "duration": 112
-  },
-  {
-    "name": "Hribarice - Kanjavec",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1377,
-    "duration": 39
-  },
-  {
-    "name": "Velika Polana - Lendava",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 10312,
-    "duration": 155
-  },
-  {
-    "name": "Zavetišče pri Abramu - Koča na Nanosu",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 6545,
-    "duration": 142
-  },
-  {
-    "name": "Kopitnik - Sekulak",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1466,
-    "duration": 27
-  },
-  {
-    "name": "Ljutomer - Banovci - Veržej",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 9432,
-    "duration": 143
-  },
-  {
-    "name": "Dom Vrhtrebnje - Trebni vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 341,
-    "duration": 8
-  },
-  {
-    "name": "Mariborska koča - slap Skalca",
-    "abstractDescription": "Zahtevna planinska pot",
-    "distance": 1309,
-    "duration": 37
-  },
-  {
-    "name": "Kamnik - Podvajšek",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1229,
-    "duration": 20
-  },
-  {
-    "name": "Dol - Šutna",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2214,
-    "duration": 35
-  },
-  {
-    "name": "Velika vas - Kostanjevica na Krki",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 10986,
-    "duration": 167
-  },
-  {
-    "name": "Kuzovec - Črni Vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1393,
-    "duration": 21
-  },
-  {
-    "name": "Dom dr. Klementa Juga - slap v Lepeni",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 441,
-    "duration": 9
-  },
-  {
-    "name": "Hamino-Rak",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1749,
-    "duration": 30
-  },
-  {
-    "name": "Turnišče - Dobrovnik - Bukovniško jezero",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 6811,
-    "duration": 103
-  },
-  {
-    "name": "Razgledna pot Bevkov vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2162,
-    "duration": 41
-  },
-  {
-    "name": "Koča pri Jelenovem studencu - Ledena jama",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 985,
-    "duration": 19
-  },
-  {
-    "name": "Vrhnika pri Ložu - Grad Snežnik",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 4327,
-    "duration": 68
-  },
-  {
-    "name": "Beltinci - Velika Polana",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 12141,
-    "duration": 183
-  },
-  {
-    "name": "Odcep proti Sviščakom",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 786,
-    "duration": 14
-  },
-  {
-    "name": "Pot ob Savinji",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 4097,
-    "duration": 62
-  },
-  {
-    "name": "Sora - Studenčice",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2477,
-    "duration": 63
-  },
-  {
-    "name": "Kobila - Stari grad",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 787,
-    "duration": 17
-  },
-  {
-    "name": "K izviru Soče (lažja pot)",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 272,
-    "duration": 11
-  },
-  {
-    "name": "Orlov rob - Voglarski Skakavec",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 952,
-    "duration": 19
-  },
-  {
-    "name": "Prečna - Grad Luknja - Suhor",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 959,
-    "duration": 17
-  },
-  {
-    "name": "Zg. Hudinja - Šmartinsko jezero",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 3000,
-    "duration": 49
-  },
-  {
-    "name": "Blatni dol - Stari maln",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1534,
-    "duration": 27
-  },
-  {
-    "name": "Krvavi kamen - Miklavž",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1090,
-    "duration": 19
-  },
-  {
-    "name": "Koča na Kopitniku - Kopitnik",
-    "abstractDescription": "Zahtevna planinska pot",
-    "distance": 1135,
-    "duration": 24
-  },
-  {
-    "name": "Pod Brdom - Izvir Bele - Boban",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1863,
-    "duration": 54
-  },
-  {
-    "name": "Medvedjak - Kočevska pl. pot",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 477,
-    "duration": 10
-  },
-  {
-    "name": "Varianta po cesti na V. Javornik",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 796,
-    "duration": 16
-  },
-  {
-    "name": "Mali vrh - Veliki vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 508,
-    "duration": 14
-  },
-  {
-    "name": "Mrežce - Lipanski vrh, spodaj",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 535,
-    "duration": 13
-  },
-  {
-    "name": "Dom na Kalu - Igrišče",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2527,
-    "duration": 52
-  },
-  {
-    "name": "Križpot Globoko - Sv. Jedert",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1748,
-    "duration": 36
-  },
-  {
-    "name": "Jamnik - Vranje pečine",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2285,
-    "duration": 39
-  },
-  {
-    "name": "Velika poljana - nad Pl. Javornik",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1559,
-    "duration": 44
-  },
-  {
-    "name": "Prebold - Zgornje Selo",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2611,
-    "duration": 43
-  },
-  {
-    "name": "Dom na Menini - Vivodnik",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 870,
-    "duration": 20
-  },
-  {
-    "name": "Prag - Planina Vodotočnik",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1072,
-    "duration": 27
-  },
-  {
-    "name": "Vrh Ulc - Konjsko sedlo",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 852,
-    "duration": 20
-  },
-  {
-    "name": "Markovščina - Slavnik",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 6619,
-    "duration": 150
-  },
-  {
-    "name": "Šmartno v Rožni dolini - Šmartinsko jezero",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2601,
-    "duration": 46
-  },
-  {
-    "name": "Gradišče - Vranje pečine",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2621,
-    "duration": 47
-  },
-  {
-    "name": "Podljubelj - Šentanška dolina - Preval",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 3728,
-    "duration": 91
-  },
-  {
-    "name": "Puštal - Mrtancova pl.",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2259,
-    "duration": 64
-  },
-  {
-    "name": "Sovodenj - Ermanovec čez Razgledno",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 5217,
-    "duration": 97
-  },
-  {
-    "name": "Pöržov mlin-Rak",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2115,
-    "duration": 38
-  },
-  {
-    "name": "Dom na Menini - Vivodnik",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 673,
-    "duration": 17
-  },
-  {
-    "name": "Ankaran - Debeli rtič",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 3485,
-    "duration": 59
-  },
-  {
-    "name": "Predgozd-Krvava Peč",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 4036,
-    "duration": 70
-  },
-  {
-    "name": "Koča na Kriški gori - Tolsti vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2564,
-    "duration": 55
-  },
-  {
-    "name": "Divača - Škocjanske jame",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 3315,
-    "duration": 54
-  },
-  {
-    "name": "Ramovšev laz - Ulaka",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 523,
-    "duration": 15
-  },
-  {
-    "name": "Povezava med potmi na Trdinov vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 587,
-    "duration": 16
-  },
-  {
-    "name": "Lom - Koča na Uskovnici",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1094,
-    "duration": 22
-  },
-  {
-    "name": "Kanonir - Kozji vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 4400,
-    "duration": 167
-  },
-  {
-    "name": "Rogašovci-Rak",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2902,
-    "duration": 50
-  },
-  {
-    "name": "Kostanjevica - Pleterje",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 4169,
-    "duration": 78
-  },
-  {
-    "name": "Varianta Vovk - Gregorc",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 3415,
-    "duration": 71
-  },
-  {
-    "name": "Kapela - Janžev vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 3220,
-    "duration": 57
-  },
-  {
-    "name": "Borovnica - Pekel",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 3739,
-    "duration": 61
-  },
-  {
-    "name": "Dom na Čemšeniški planini - Črni vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 809,
-    "duration": 17
-  },
-  {
-    "name": "Ponikva - Uršula",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 5236,
-    "duration": 104
-  },
-  {
-    "name": "Mali Moravščak - Mala Nedelja",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 3527,
-    "duration": 61
-  },
-  {
-    "name": "Koča na Klopnem vrhu-Klopni vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 875,
-    "duration": 19
-  },
-  {
-    "name": "Stara Vrhnika - Tankovska cesta",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1842,
-    "duration": 37
-  },
-  {
-    "name": "Lom - Mlaka - Koča na Uskovnici",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 943,
-    "duration": 20
-  },
-  {
-    "name": "Hotel Planja - Rogla - Pesek",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2744,
-    "duration": 54
-  },
-  {
-    "name": "Cvetkovski vrh - grad Borl",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 12374,
-    "duration": 198
-  },
-  {
-    "name": "Češnica - Dolgi tali",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2778,
-    "duration": 48
-  },
-  {
-    "name": "Povezovalna pot Brezovški hrib-Kamnišca",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1391,
-    "duration": 27
-  },
-  {
-    "name": "Brežice - Čatež ob Savi",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1758,
-    "duration": 32
-  },
-  {
-    "name": "Zg. Slivna - Slivna",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1305,
-    "duration": 26
-  },
-  {
-    "name": "Šoštanj-Pusti grad",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 643,
-    "duration": 15
-  },
-  {
-    "name": "Šport hotel - Pl. Javornik",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 3030,
-    "duration": 52
-  },
-  {
-    "name": "Rakek - Rakov Škocjan",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 4263,
-    "duration": 75
-  },
-  {
-    "name": "Staničev dom - Vrbanova špica",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 661,
-    "duration": 19
-  },
-  {
-    "name": "Mala Nedelja - Cezanjevci",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 8874,
-    "duration": 144
-  },
-  {
-    "name": "Dom na Osankarici - Taborišče 1. poh. bataljona",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1453,
-    "duration": 26
-  },
-  {
-    "name": "Kumer - Luže",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1540,
-    "duration": 28
-  },
-  {
-    "name": "Razorjevec - Sivka",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1180,
-    "duration": 23
-  },
-  {
-    "name": "Srenjski preval - Viševnik",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 623,
-    "duration": 20
-  },
-  {
-    "name": "Pirešica - Razgorce",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 669,
-    "duration": 19
-  },
-  {
-    "name": "Tičarjev dom - Poštarska koča",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 849,
-    "duration": 18
-  },
-  {
-    "name": "Tabor. I. poh. bataljona - Šumik",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 4081,
-    "duration": 73
-  },
-  {
-    "name": "Sedlo Planja-Planja",
-    "abstractDescription": "Zahtevna planinska pot",
-    "distance": 345,
-    "duration": 30
-  },
-  {
-    "name": "Bukovec - Kevdrc",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1256,
-    "duration": 28
-  },
-  {
-    "name": "Valvasorjev dom  - Ajdna",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1995,
-    "duration": 53
-  },
-  {
-    "name": "K izviru Soče (težja pot)",
-    "abstractDescription": "Zelo zahtevna planinska pot",
-    "distance": 361,
-    "duration": 21
-  },
-  {
-    "name": "Mariborska koča - razgledni stolp",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1606,
-    "duration": 33
-  },
-  {
-    "name": "Koča na Bohorju - Veliki Koprivnik",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 948,
-    "duration": 23
-  },
-  {
-    "name": "Radenci - Kapela",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2915,
-    "duration": 51
-  },
-  {
-    "name": "Planinski dom na Kamnem griču-Kalični vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2326,
-    "duration": 53
-  },
-  {
-    "name": "Artviže - Dimnice",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 6971,
-    "duration": 122
-  },
-  {
-    "name": "Krpanova pot - varianta do mlina",
-    "abstractDescription": "Lahka turistična pot",
-    "distance": 2658,
-    "duration": 50
-  },
-  {
-    "name": "Košutna - Mokrica",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1655,
-    "duration": 48
-  },
-  {
-    "name": "Zaplana - Storžev hrib",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2498,
-    "duration": 59
-  },
-  {
-    "name": "Čez Ljubljanski grad",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1534,
-    "duration": 34
-  },
-  {
-    "name": "Tankovska cesta - Stari maln",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2730,
-    "duration": 46
-  },
-  {
-    "name": "Sežana - MP Draga-Orlek",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 6155,
-    "duration": 99
-  },
-  {
-    "name": "Mrzlo Polje - Lovrenc",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 3046,
-    "duration": 62
-  },
-  {
-    "name": "Spolonke - Petričev hrib",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 866,
-    "duration": 22
-  },
-  {
-    "name": "ŽP Preserje - Kamnik pod Krimom - Preserje",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2441,
-    "duration": 44
-  },
-  {
-    "name": "Ribniška koča-Črni vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2277,
-    "duration": 45
-  },
-  {
-    "name": "Vrhnika - Verd",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 3581,
-    "duration": 60
-  },
-  {
-    "name": "Štenge-Pikovo",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2925,
-    "duration": 53
-  },
-  {
-    "name": "Pil -Štant",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 993,
-    "duration": 21
-  },
-  {
-    "name": "Celje-Lisca-Brniški potok",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 3329,
-    "duration": 57
-  },
-  {
-    "name": "Pikovo-Mitnek",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1184,
-    "duration": 25
-  },
-  {
-    "name": "Sp. Slivna - Sv. Florjan",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2102,
-    "duration": 40
-  },
-  {
-    "name": "Varianta mimo izvira kisle vode",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1497,
-    "duration": 35
-  },
-  {
-    "name": "Podolnica - Prosca",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1744,
-    "duration": 34
-  },
-  {
-    "name": "Dom na Menini - Šavnice (Goli vrh)",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 4007,
-    "duration": 71
-  },
-  {
-    "name": "Gabrje - Dolenji Suhadol",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 4359,
-    "duration": 79
-  },
-  {
-    "name": "Ivanjkovci - Jeruzalem",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2634,
-    "duration": 48
-  },
-  {
-    "name": "Ormož - Hum",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 4180,
-    "duration": 73
-  },
-  {
-    "name": "Grajska pot",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1826,
-    "duration": 43
-  },
-  {
-    "name": "Jeruzalem - Železne dveri - Ljutomer",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 7378,
-    "duration": 127
-  },
-  {
-    "name": "Tamar - izvir Nadiže",
-    "abstractDescription": "Zahtevna planinska pot",
-    "distance": 871,
-    "duration": 29
-  },
-  {
-    "name": "Veliki vrh (krožna pot)",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1312,
-    "duration": 38
-  },
-  {
-    "name": "a.p. Mengeš J - Mengeška koča",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1603,
-    "duration": 35
-  },
-  {
-    "name": "Čez Žigartov vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 3195,
-    "duration": 58
-  },
-  {
-    "name": "Šentvid - Toško čelo",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 5122,
-    "duration": 112
-  },
-  {
-    "name": "Koča pod Bogatinom-Koča pri Triglavskih jezerih",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 7108,
-    "duration": 157
-  },
-  {
-    "name": "Jamnik - Planina",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1538,
-    "duration": 32
-  },
-  {
-    "name": "Biba - Goli vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2652,
-    "duration": 49
-  },
-  {
-    "name": "Radomerščak - Plešivica",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2581,
-    "duration": 48
-  },
-  {
-    "name": "Medvedica - Veliki Ločnik Z",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1869,
-    "duration": 38
-  },
-  {
-    "name": "Ramovšev laz - Koreno",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 738,
-    "duration": 23
-  },
-  {
-    "name": "Šmarje-Sečovlje",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 18881,
-    "duration": 371
-  },
-  {
-    "name": "Žimarice - Mlake",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1131,
-    "duration": 26
-  },
-  {
-    "name": "Puščava - Lovrenc na Pohorju",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 3052,
-    "duration": 53
-  },
-  {
-    "name": "Podpeč - Sv. Štefan",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1829,
-    "duration": 43
-  },
-  {
-    "name": "Davča - Jurež",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 2390,
-    "duration": 45
-  },
-  {
-    "name": "Logatec - Jezerce",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 4648,
-    "duration": 79
-  },
-  {
-    "name": "Preserje - Sv . Ana",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1740,
-    "duration": 36
-  },
-  {
-    "name": "Varianta Haloške planinske poti",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1896,
-    "duration": 35
-  },
-  {
-    "name": "Dom pri izviru Završnice - Planinski dom na Zelenici",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1299,
-    "duration": 30
-  },
-  {
-    "name": "Planina Zgornja Dolga njiva - Orlovo sedlo",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 978,
-    "duration": 27
-  },
-  {
-    "name": "Dom na Svetini-Tolsti vrh",
-    "abstractDescription": "Lahka planinska pot",
-    "distance": 1041,
-    "duration": 32
+    "duration": 66,
+    "durationReverse": 90,
+    "cumulativeElevationGain": 3,
+    "cumulativeElevationLoss": 479,
+    "coverImage": null,
+    "hasSafetyGear": false,
+    "trailType": 1,
+    "startPoint": {
+      "id": 853,
+      "name": "Planinski dom na Zelenici",
+      "type": 6,
+      "territory": 16,
+      "iconRotation": null,
+      "elevation": 1536,
+      "geometry": "POINT (1584473.4708000012 5849343.049999997)",
+      "coverImage": "2443.jpg",
+      "websiteId": 69,
+      "weatherWidgetTitle": "Zelenica",
+      "hutClosed": false
+    },
+    "finishPoint": {
+      "id": 5806,
+      "name": "Ljubelj m.p.",
+      "type": 20,
+      "territory": 16,
+      "iconRotation": null,
+      "elevation": 1059,
+      "geometry": "POINT (1587366.6961999983 5849816.930100001)",
+      "coverImage": null,
+      "websiteId": null,
+      "weatherWidgetTitle": "Zelenica",
+      "hutClosed": null
+    },
+    "owner": {
+      "idPzs": 202,
+      "name": "PD Tržič"
+    },
+    "images": [],
+    "pois": [
+      {
+        "id": 853,
+        "name": "Planinski dom na Zelenici",
+        "type": 6,
+        "territory": 16,
+        "iconRotation": null,
+        "elevation": 1536,
+        "geometry": "POINT (1584473.4708000012 5849343.049999997)",
+        "coverImage": "2443.jpg",
+        "websiteId": 69,
+        "weatherWidgetTitle": "Zelenica",
+        "hutClosed": false
+      },
+      {
+        "id": 5806,
+        "name": "Ljubelj m.p.",
+        "type": 20,
+        "territory": 16,
+        "iconRotation": null,
+        "elevation": 1059,
+        "geometry": "POINT (1587366.6961999983 5849816.930100001)",
+        "coverImage": null,
+        "websiteId": null,
+        "weatherWidgetTitle": "Zelenica",
+        "hutClosed": null
+      }
+    ]
   }
 ]
