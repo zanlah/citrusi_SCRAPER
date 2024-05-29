@@ -35,7 +35,11 @@ async function fetchPOINTS() {
     const url = 'https://mapzs.pzs.si/api/tracks/points';
     try {
         const response = await axios.get(url);
-        const ids = response.data.map(item => item.id);
+        // 1 planinske poti
+        // 2 turistična pot
+        // 
+        const filteredData = response.data.filter(item => [1, 2, 3].includes(item.trailType));
+        const ids = filteredData.map(item => item.id);
         console.log('Fetched IDs:', ids);
         return ids;
     } catch (error) {
@@ -78,9 +82,9 @@ async function fetchDetailedPointData(id) {
         let startPoint = response.data.startPoint;
         let finishPoint = response.data.finishPoint;
         let owner = response.data.owner;
-        let images = response.data.images;
         let pois = response.data.pois;
-
+        let coordinates = response.data.elevationProfile.coordinates;
+        let territory = response.data.territory;
 
         return {
             id,
@@ -98,8 +102,9 @@ async function fetchDetailedPointData(id) {
             startPoint,
             finishPoint,
             owner,
-            images,
-            pois
+            pois,
+            coordinates,
+            territory
         };
 
     } catch (error) {
